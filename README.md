@@ -18,4 +18,4 @@ Open the Jupyter Lab notebook at https://github.com/toniahurst/FinTech_Module_5_
 Antonia Hurst
 
 ## License
-Copyright (c) 2015-2021 Project Jupyter Contributors Copy of license
+Copyright (c) 2015-2021 Project Jupyter https://github.com/jupyterlab/jupyterlab/blob/master/LICENSE
