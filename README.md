@@ -11,8 +11,11 @@ The second part of this notebook provides a financial planner for retirement. I 
 ## Technologies
 This program uses Python 3.7.10, Pandas, Anaconda versionb 4.10.3, and JupyterLab 3.0.14. It also uses libraies from pandas, JSON, Dotenv, OS, MCForecast Tools and Alpaca Trade API. It was written on macOS Catalina 10.15.7.
 
-## Installation Guide
-After navigating to the correct folder, enter jupyter lab at the CLI.
-
 ## Usage
-Open the Jupyter Lab notebook at https://github.com/toniahurst/FinTech_Module_4_Challenge/blob/main/risk_return_analysis.ipynb or download the notebook and run from the CLI.
+Open the Jupyter Lab notebook at https://github.com/toniahurst/FinTech_Module_5_Challenge/blob/main/Starter_Code_Module_5_Challenge/financial_planning_tools.ipynb or download the notebook and run from the CLI.
+
+## Contributors
+Antonia Hurst
+
+## License
+Copyright (c) 2015-2021 Project Jupyter Contributors Copy of license
